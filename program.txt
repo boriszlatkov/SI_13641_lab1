@@ -1,0 +1,15 @@
+#include <iostream>
+#include <cstring>
+using namespace std;
+
+void printMyName () {
+	boris zlatkov
+}
+
+void printMyIndex () {
+	13641
+}
+
+int main () {
+	//TODO
+}
